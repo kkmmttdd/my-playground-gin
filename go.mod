@@ -1,4 +1,4 @@
-module github.com/kkmmttdd/gin-playground
+module github.com/kkmmttdd/my-playground-gin
 
 go 1.13
 
